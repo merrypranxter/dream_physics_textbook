@@ -1,0 +1,47 @@
+# Tests
+
+## Test 1 - Field manual opens and chapter navigation works [sanity]
+Viewport: desktop
+Description: Verifies the app loads and the core reading path opens a complete chapter.
+Steps:
+1. Open the app at the Threshold
+2. Activate "Enter the field manual"
+3. Activate Chapter 2 in the chapter path
+Expected: The Field Manual shows "Emotional Field Theory" with readable chapter content and adjacent chapter links.
+
+## Test 2 - Mobile path becomes a readable trail
+Viewport: mobile
+Description: Verifies the non-grid garden transforms into a usable mobile reading path.
+Steps:
+1. Open the app
+2. Scroll to "Fifteen clearings and one buried law"
+3. Activate "Impossible Space"
+Expected: Chapter doors appear as a single clear trail and the selected chapter is readable without horizontal page overflow.
+
+## Test 3 - Symbolarium filters source phenomena
+Viewport: desktop
+Description: Verifies the searchable atlas and category controls expose structured source data.
+Steps:
+1. Open "Symbolarium"
+2. Enter "identity" in the search field
+3. Select the "Identity Shifts" field
+Expected: Matching identity phenomena remain visible and unrelated categories are absent.
+
+## Test 4 - Laboratory controls change the scene reading
+Viewport: desktop
+Description: Verifies the educational simulator responds to input without fake loading.
+Steps:
+1. Open "Dream Lab"
+2. Set Emotional coherence near 100
+3. Set Memory fragmentation near 0
+4. Observe the output panel
+Expected: Scene stability rises and the scene state reads "crystalline".
+
+## Test 5 - Display preference is reversible
+Viewport: mobile
+Description: Verifies the one harmless local visual preference can be chosen and forgotten.
+Steps:
+1. Activate "Quiet reading"
+2. Confirm animated visual density is reduced
+3. Activate "Forget display preference"
+Expected: The luminous default is restored and all text and navigation remain available in both modes.

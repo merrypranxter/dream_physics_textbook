@@ -1,0 +1,336 @@
+{
+  "source": "Comprehensive Taxonomy of Dream Phenomena",
+  "description": "Structured data of dream phenomena for programmatic access",
+  "categories": [
+    {
+      "name": "Sensory Distortions",
+      "description": "Alterations to normal sensory experience in dreams",
+      "phenomena": [
+        {
+          "name": "Blurry or Unstable Vision",
+          "description": "Dream visuals unfocused or prone to sudden change; text blurs or letters rearrange",
+          "ai_prompt_tags": [
+            "blurry",
+            "unstable",
+            "fluid",
+            "unfocused"
+          ]
+        },
+        {
+          "name": "Unstable Text and Clocks",
+          "description": "Written words and numbers unreliable; clock time changes between glances",
+          "ai_prompt_tags": [
+            "melting clock",
+            "shifting text",
+            "unstable numbers"
+          ]
+        },
+        {
+          "name": "Heavy or Slow Motion Body",
+          "description": "Physical actions impeded; running in slow motion as through invisible barrier",
+          "ai_prompt_tags": [
+            "slow motion",
+            "heavy limbs",
+            "sluggish movement"
+          ]
+        },
+        {
+          "name": "Impaired Voice",
+          "description": "Unable to speak or scream; only whisper or no sound; powerlessness in nightmare",
+          "ai_prompt_tags": [
+            "silent scream",
+            "voiceless",
+            "soundless"
+          ]
+        },
+        {
+          "name": "Hyper-Vivid Dreams",
+          "description": "More vivid than waking reality — extreme clarity, neon saturation",
+          "ai_prompt_tags": [
+            "hyper-vivid",
+            "neon",
+            "crystal clear",
+            "more real than real"
+          ]
+        },
+        {
+          "name": "Phantom Sounds",
+          "description": "Voices, music, explosions without source",
+          "ai_prompt_tags": [
+            "phantom sounds",
+            "disembodied voice",
+            "music from nowhere"
+          ]
+        },
+        {
+          "name": "Physical Sensations",
+          "description": "Touch, temperature, pain, pleasure experienced in dreams",
+          "ai_prompt_tags": [
+            "tactile dream",
+            "physical sensation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spatial & Temporal Anomalies",
+      "description": "Violations of normal space and time in dreams",
+      "phenomena": [
+        {
+          "name": "Shifting Landscapes",
+          "description": "Settings that defy logic, surreal or non-Euclidean environments",
+          "ai_prompt_tags": [
+            "non-euclidean",
+            "impossible space",
+            "shifting landscape"
+          ]
+        },
+        {
+          "name": "Defiance of Physics",
+          "description": "Gravity malleable; flying, floating, objects behaving strangely",
+          "ai_prompt_tags": [
+            "zero gravity",
+            "flying dream",
+            "physics violation"
+          ]
+        },
+        {
+          "name": "Time Distortions",
+          "description": "Dream feels like hours; entire lifetimes in short nap; shuffled sequences",
+          "ai_prompt_tags": [
+            "time distortion",
+            "temporal loop",
+            "compressed time"
+          ]
+        },
+        {
+          "name": "Scene Merging and Loops",
+          "description": "Spatial continuity broken; rooms loop back; endless hallways",
+          "ai_prompt_tags": [
+            "looping hallway",
+            "scene merge",
+            "infinite corridor"
+          ]
+        },
+        {
+          "name": "Infinite Interiors",
+          "description": "Buildings containing impossible numbers of rooms continuing forever",
+          "ai_prompt_tags": [
+            "infinite rooms",
+            "impossible building",
+            "endless interior"
+          ]
+        },
+        {
+          "name": "Gravity Inversion",
+          "description": "Full sky-to-ground inversion, walls rotating upward becoming sky",
+          "ai_prompt_tags": [
+            "gravity inversion",
+            "upside down",
+            "inverted world"
+          ]
+        },
+        {
+          "name": "Scale Alternation",
+          "description": "Dreamer alternates between giant-scale and microscopic perspectives",
+          "ai_prompt_tags": [
+            "scale shift",
+            "giant perspective",
+            "microscopic view"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Identity Shifts",
+      "description": "Transformations of self and identity in dreams",
+      "phenomena": [
+        {
+          "name": "Becoming Someone Else",
+          "description": "Dreamer inhabits body or perspective of another person or creature",
+          "ai_prompt_tags": [
+            "identity shift",
+            "body swap",
+            "other perspective"
+          ]
+        },
+        {
+          "name": "Multiple Simultaneous Selves",
+          "description": "Experiencing awareness in two or more dream bodies at same time",
+          "ai_prompt_tags": [
+            "multiple selves",
+            "dual consciousness",
+            "split identity"
+          ]
+        },
+        {
+          "name": "Identity Bleed",
+          "description": "Waking-life personality intruding into dream behavior",
+          "ai_prompt_tags": [
+            "identity bleed",
+            "waking intrusion"
+          ]
+        },
+        {
+          "name": "Avatar Migration",
+          "description": "Jumping into viewpoint of any dream character deliberately",
+          "ai_prompt_tags": [
+            "avatar",
+            "viewpoint shift",
+            "perspective jump"
+          ]
+        },
+        {
+          "name": "Self Copies",
+          "description": "Encountering duplicates of yourself interacting independently",
+          "ai_prompt_tags": [
+            "doppelganger",
+            "self copies",
+            "duplicate self"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Narrative Glitches",
+      "description": "Breaks and anomalies in dream narrative logic",
+      "phenomena": [
+        {
+          "name": "Abrupt Scene Changes",
+          "description": "Without buildup, setting and situation change instantaneously",
+          "ai_prompt_tags": [
+            "scene jump",
+            "abrupt transition",
+            "teleport"
+          ]
+        },
+        {
+          "name": "Plot Holes Made Physical",
+          "description": "Narrative logic gaps becoming spatial or temporal anomalies",
+          "ai_prompt_tags": [
+            "narrative glitch",
+            "plot hole"
+          ]
+        },
+        {
+          "name": "Dream-Within-Dream",
+          "description": "False awakenings, nested realities",
+          "ai_prompt_tags": [
+            "nested dream",
+            "false awakening",
+            "dream within dream"
+          ]
+        },
+        {
+          "name": "Meta-Awareness",
+          "description": "Recognizing the dream as scene or game, characters acknowledging dreamer",
+          "ai_prompt_tags": [
+            "meta dream",
+            "fourth wall",
+            "dream awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emotional Patterns",
+      "description": "Recurring emotional dynamics in dream states",
+      "phenomena": [
+        {
+          "name": "Emotional Incongruence",
+          "description": "Emotions not corresponding logically to events — euphoria during disaster",
+          "ai_prompt_tags": [
+            "emotional incongruence",
+            "wrong emotion",
+            "surreal feeling"
+          ]
+        },
+        {
+          "name": "Overwhelming Emotional Surges",
+          "description": "Sudden overwhelming surges not tied to narrative",
+          "ai_prompt_tags": [
+            "emotional surge",
+            "overwhelming feeling"
+          ]
+        },
+        {
+          "name": "Collective Mirroring",
+          "description": "All dream characters mirroring dreamer's emotional state simultaneously",
+          "ai_prompt_tags": [
+            "emotional mirror",
+            "collective mood"
+          ]
+        },
+        {
+          "name": "Mood-Driven Scene Changes",
+          "description": "Scene changes initiated entirely by change in mood",
+          "ai_prompt_tags": [
+            "mood shift",
+            "emotion-driven reality"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rare & Anomalous",
+      "description": "Unusual and extreme dream phenomena",
+      "phenomena": [
+        {
+          "name": "Lucid Dreaming",
+          "description": "Full awareness that one is dreaming while inside the dream",
+          "ai_prompt_tags": [
+            "lucid dream",
+            "dream awareness",
+            "conscious dreaming"
+          ]
+        },
+        {
+          "name": "Sleep Paralysis",
+          "description": "Awakening with body immobilized; REM sleep with waking consciousness",
+          "ai_prompt_tags": [
+            "sleep paralysis",
+            "shadow figure",
+            "paralysis horror"
+          ]
+        },
+        {
+          "name": "Precognitive Dreams",
+          "description": "Dreams appearing to predict future events",
+          "ai_prompt_tags": [
+            "precognitive",
+            "prophetic dream",
+            "future vision"
+          ]
+        },
+        {
+          "name": "Shared Dreams",
+          "description": "Multiple people reporting same dream content",
+          "ai_prompt_tags": [
+            "shared dream",
+            "collective dream",
+            "entangled consciousness"
+          ]
+        },
+        {
+          "name": "Out-of-Body Experience",
+          "description": "Sensation of consciousness leaving the physical body",
+          "ai_prompt_tags": [
+            "out of body",
+            "astral projection",
+            "floating above body"
+          ]
+        },
+        {
+          "name": "Hypnagogic Hallucinations",
+          "description": "Vivid images and sensations at sleep onset",
+          "ai_prompt_tags": [
+            "hypnagogic",
+            "sleep onset",
+            "phosphene",
+            "threshold vision"
+          ]
+        }
+      ]
+    }
+  ]
+}

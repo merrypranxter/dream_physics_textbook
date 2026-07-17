@@ -1,0 +1,161 @@
+{
+  "description": "Flat list of AI art prompts derived from Dream Physics, for quick programmatic access",
+  "categories": [
+    "sensory",
+    "spatial",
+    "temporal",
+    "identity",
+    "emotional",
+    "symbolic",
+    "atmosphere",
+    "concept",
+    "character"
+  ],
+  "total": 36,
+  "prompts": [
+    {
+      "category": "sensory",
+      "prompt": "dreamscape with unstable shifting text, letters rearranging on signs and pages, surreal typography, soft unfocused edges, dream logic"
+    },
+    {
+      "category": "sensory",
+      "prompt": "blurry unstable vision dream scene, soft focus, fluid reality, shapes refusing to stay consistent, impressionistic"
+    },
+    {
+      "category": "sensory",
+      "prompt": "heavy slow motion running through dark hallway, limbs like lead, surreal nightmare atmosphere, muted colors"
+    },
+    {
+      "category": "sensory",
+      "prompt": "silent scream in a dream, mouth open but no sound, expressionistic horror, distorted face, oil painting"
+    },
+    {
+      "category": "sensory",
+      "prompt": "clock face melting and shifting, time changing at every glance, surreal timepiece, Dali-inspired"
+    },
+    {
+      "category": "sensory",
+      "prompt": "hyper-vivid dream scene more real than waking life, neon saturation, crystal clarity, luminous details"
+    },
+    {
+      "category": "spatial",
+      "prompt": "non-euclidean dream architecture, impossible staircase, rooms that shouldn't fit together, MC Escher style"
+    },
+    {
+      "category": "spatial",
+      "prompt": "infinite interior space, endless corridors of doors, impossible labyrinth inside a small room"
+    },
+    {
+      "category": "spatial",
+      "prompt": "gravity inverting in dreamscape, objects and people floating upward, sky and ground reversed"
+    },
+    {
+      "category": "spatial",
+      "prompt": "portal door in ordinary house opening to alien impossible landscape, threshold between worlds"
+    },
+    {
+      "category": "spatial",
+      "prompt": "dream architecture defying physics, floating staircases, walls that curve into sky, recursive rooms"
+    },
+    {
+      "category": "temporal",
+      "prompt": "time loop visualization in dream, same scene repeating with slight variations, ghostly overlapping figures"
+    },
+    {
+      "category": "temporal",
+      "prompt": "simultaneous timelines in dreamscape, past present future colliding, translucent layered realities"
+    },
+    {
+      "category": "temporal",
+      "prompt": "character aging decades in seconds within dream, rapid time lapse in single scene"
+    },
+    {
+      "category": "identity",
+      "prompt": "dream self watching own body from above, out-of-body perspective, dual consciousness visualization"
+    },
+    {
+      "category": "identity",
+      "prompt": "identity shifting in dream, person morphing into multiple selves simultaneously, fluid identity"
+    },
+    {
+      "category": "identity",
+      "prompt": "composite dream character, two familiar faces merged into one entity, uncanny familiarity"
+    },
+    {
+      "category": "identity",
+      "prompt": "shadow self in dream, confronting dark mirror version of oneself, Jungian symbolism"
+    },
+    {
+      "category": "emotional",
+      "prompt": "terror stretching dream landscape into infinite pursuit corridor, emotional geography made physical"
+    },
+    {
+      "category": "emotional",
+      "prompt": "love bending dreamscape toward reunion, warm light pulling scenes together, romantic surrealism"
+    },
+    {
+      "category": "emotional",
+      "prompt": "confusion fragmenting dream space into disconnected floating rooms, scattered reality"
+    },
+    {
+      "category": "emotional",
+      "prompt": "ecstasy melting all dream boundaries into pure color and light, transcendent dissolution"
+    },
+    {
+      "category": "symbolic",
+      "prompt": "Jungian dream symbols floating in dark water, archetypes as luminous shapes, collective unconscious"
+    },
+    {
+      "category": "symbolic",
+      "prompt": "oneiros — raw perceptual matter of dreams, flowing luminous substance forming reality"
+    },
+    {
+      "category": "atmosphere",
+      "prompt": "lucid dream clarity, self-awareness within dream, crystal clear surreal landscape, heightened presence"
+    },
+    {
+      "category": "atmosphere",
+      "prompt": "sleep paralysis hallucination, dark figure in peripheral vision, crushing weight, paralyzed in dream"
+    },
+    {
+      "category": "atmosphere",
+      "prompt": "false awakening dream, waking up inside a dream inside a dream, nested realities"
+    },
+    {
+      "category": "atmosphere",
+      "prompt": "hypnagogic state visualization, falling asleep threshold, geometric phosphene patterns"
+    },
+    {
+      "category": "concept",
+      "prompt": "oneiros — the raw perceptual substance of dreams, luminous flowing matter that IS space"
+    },
+    {
+      "category": "concept",
+      "prompt": "affective field visualization, emotion curving dream spacetime like gravity curves space"
+    },
+    {
+      "category": "concept",
+      "prompt": "mnemonic gravity — heavy memories distorting dream toward familiar narratives"
+    },
+    {
+      "category": "concept",
+      "prompt": "memory well visualization, unresolved emotion as black hole pulling dreams into orbit"
+    },
+    {
+      "category": "character",
+      "prompt": "the wise guide in dream, ancient figure with calm eyes, knows all dream laws, otherworldly serenity"
+    },
+    {
+      "category": "character",
+      "prompt": "the shadow self, dark mirror of dreamer, identical but twisted, confronting your own darkness"
+    },
+    {
+      "category": "character",
+      "prompt": "sleep paralysis entity, dark formless presence in peripheral vision, ancient terror, shadow being"
+    },
+    {
+      "category": "character",
+      "prompt": "dream composite character, features of multiple people merged impossibly, uncanny hybrid face"
+    }
+  ]
+}

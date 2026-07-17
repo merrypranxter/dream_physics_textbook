@@ -1,0 +1,172 @@
+{
+  "source": "Dream Physics: A Field Manual of the Sleeping Cosmos",
+  "description": "Core theoretical concepts from the Dream Physics framework",
+  "concepts": [
+    {
+      "name": "Oneiros",
+      "symbol": "Ο",
+      "definition": "The raw experiential substance of dreams — the perceptible stuff from which images, sensations, emotions, identities, and narratives are formed.",
+      "properties": [
+        "does not occupy space — it defines space",
+        "does not move through time — it becomes time",
+        "behaves like hybrid of sensory perception, emotional feeling, and narrative expectation"
+      ],
+      "chapter": 1,
+      "tags": [
+        "fundamental",
+        "substance",
+        "perception",
+        "matter"
+      ]
+    },
+    {
+      "name": "O-Node",
+      "symbol": "O",
+      "definition": "Any temporarily persistent dream-form whose boundaries appear stable to the dreamer. Stable crystallizations of Oneiros.",
+      "examples": [
+        "a dream body",
+        "a city that lasts several minutes",
+        "a recurring dream symbol"
+      ],
+      "properties": [
+        "not solid",
+        "tight whirlpools of meaning spinning inside perceptual fluid"
+      ],
+      "chapter": 1,
+      "tags": [
+        "structure",
+        "stability",
+        "form"
+      ]
+    },
+    {
+      "name": "Symbol Field",
+      "definition": "A global, nonlocal shaping layer where collective myth, personal memory, archetype, and cultural imagery merge into probability densities.",
+      "components": [
+        "Archetypes",
+        "Language fragments",
+        "Cultural symbols",
+        "Personal memory echoes",
+        "Emotional imprints"
+      ],
+      "mechanism": "Symbolic Resonance — dream-mind attracts symbols that vibrationally match the emotional state being experienced",
+      "chapter": 1,
+      "tags": [
+        "field",
+        "symbols",
+        "archetypes",
+        "collective"
+      ]
+    },
+    {
+      "name": "Affective Fields",
+      "definition": "Gradient zones of dream reality formed by the intensity and coherence of emotion. Dream reality shaped by emotion the way spacetime is curved by mass.",
+      "examples": [
+        {
+          "emotion": "Love",
+          "effect": "bends scenes toward union"
+        },
+        {
+          "emotion": "Terror",
+          "effect": "stretches landscapes into infinite pursuit"
+        },
+        {
+          "emotion": "Confusion",
+          "effect": "fragments space into disconnected rooms"
+        },
+        {
+          "emotion": "Ecstasy",
+          "effect": "melts boundaries entirely"
+        }
+      ],
+      "equation": "Scene Stability ∝ Emotional Coherence / Memory Fragmentation",
+      "chapter": 2,
+      "tags": [
+        "emotion",
+        "physics",
+        "field",
+        "stability"
+      ]
+    },
+    {
+      "name": "Mnemonic Mass",
+      "definition": "The gravitational pull exerted by emotionally-charged memories upon dream formation. Memory behaves as mass does.",
+      "properties": [
+        "large memories distort dream-realities toward familiar narratives",
+        "stronger unresolved emotion = more mass = more warping"
+      ],
+      "manifestations": [
+        "Memory Wells",
+        "recurring locations",
+        "repetition loops"
+      ],
+      "chapter": 3,
+      "tags": [
+        "memory",
+        "gravity",
+        "recursion",
+        "loops"
+      ]
+    },
+    {
+      "name": "Memory Wells",
+      "definition": "Stable gravitational basins of unresolved meaning in dream space, causing orbit around fixed storylines.",
+      "examples": [
+        "always running from something",
+        "always looking for someone",
+        "always late for something"
+      ],
+      "chapter": 3,
+      "tags": [
+        "memory",
+        "loops",
+        "recursion",
+        "unresolved"
+      ]
+    },
+    {
+      "name": "Identity Superposition",
+      "definition": "The dream-self existing simultaneously as observer, participant, narrator, and sometimes multiple characters.",
+      "chapter": 4,
+      "tags": [
+        "identity",
+        "multiplicity",
+        "consciousness",
+        "quantum"
+      ]
+    },
+    {
+      "name": "Symbolic Mechanics",
+      "definition": "The physics of how symbols form, mutate, clash, hybridize, collapse into archetypes, and become narrative engines.",
+      "chapter": 5,
+      "tags": [
+        "symbols",
+        "mechanics",
+        "archetypes",
+        "narrative"
+      ]
+    },
+    {
+      "name": "Kairotempics",
+      "definition": "The physics of nonlinear dream time. Kairos (meaningful time) vs. Chronos (mechanical time) in the dream universe.",
+      "chapter": 6,
+      "tags": [
+        "time",
+        "nonlinear",
+        "kairos",
+        "temporal"
+      ]
+    },
+    {
+      "name": "Dream Energetics",
+      "definition": "What energy means in nonphysical worlds — emotional fuel dynamics, attention as currency, intention as force.",
+      "chapter": 9,
+      "tags": [
+        "energy",
+        "emotion",
+        "attention",
+        "fuel"
+      ]
+    }
+  ]
+}
